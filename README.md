@@ -1,12 +1,12 @@
 
 
 ### Hello, moi c'est Hugo 👋  
-- 📚 J'ai 25 ans et je suis actuellement étudiant à la HEPL dans un bachelier en techniques infographiques, option web et multimédia.  
+- 📚 J'ai 26 ans et je suis actuellement étudiant à la HEPL dans un bachelier en techniques infographiques, option web et multimédia.  
   
 
 - 💻 Je suis passionné de technologie et suis toujours en recherche d'amélioration  personelle.
 
-- ⚡️ Mon IDE: PhpStorm
+- ⚡️ Mon IDE: VS Code
   
 
 <br/>  
